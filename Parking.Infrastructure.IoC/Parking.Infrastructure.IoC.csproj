@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <ApplicationIcon />
+    <StartupObject />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Parking.Application\Parking.Application.csproj" />
+    <ProjectReference Include="..\Parking.Domain\Parking.Domain.csproj" />
+    <ProjectReference Include="..\Parking.Infrastructure.Data\Parking.Infrastructure.Data.csproj" />
+  </ItemGroup>
+
+</Project>

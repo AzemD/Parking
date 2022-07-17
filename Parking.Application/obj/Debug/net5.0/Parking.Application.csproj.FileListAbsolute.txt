@@ -1,0 +1,5 @@
+C:\Users\wxemi\source\repos\Parking\Parking.Application\obj\Debug\net5.0\Parking.Application.csproj.AssemblyReference.cache
+C:\Users\wxemi\source\repos\Parking\Parking.Application\obj\Debug\net5.0\Parking.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wxemi\source\repos\Parking\Parking.Application\obj\Debug\net5.0\Parking.Application.AssemblyInfoInputs.cache
+C:\Users\wxemi\source\repos\Parking\Parking.Application\obj\Debug\net5.0\Parking.Application.AssemblyInfo.cs
+C:\Users\wxemi\source\repos\Parking\Parking.Application\obj\Debug\net5.0\Parking.Application.csproj.CoreCompileInputs.cache
